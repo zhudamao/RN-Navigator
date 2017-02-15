@@ -6,3 +6,5 @@
     * initalRoute
   * 2.configureScene
   * 3.renderScence 
+* 向后  传值  通过params 
+* 向前  传值  通过 params，传递匿名函数实现
